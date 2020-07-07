@@ -1,0 +1,42 @@
+body{
+  background-image: url(signin1.jpeg);
+  background-size: cover;
+}
+.form-container{
+  position: absolute;
+  top: 10vh;
+  background: white;
+  padding:30px;
+  border-radius:20px;
+  box-shadow: 0 0 3px 0 #000;
+  text-align: center;
+}
+.inputemail{
+  width: 100%;
+  margin-bottom: 15px;
+  padding: 10px;
+  outline: none;
+}
+.inputpassword{
+  width: 100%;
+padding: 10px;
+  outline: none;
+}
+
+.checkbox{
+  margin-right: 80px;
+}
+
+.btn-signin{
+  width:100%;
+  margin-top: 10px;
+}
+.btn-google{
+  width: 100%;
+  margin-bottom: 10px;
+    background-color: #d32626;
+}
+.btn-facebook{
+  width: 100%;
+    background-color: #084177;
+}
